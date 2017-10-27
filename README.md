@@ -1,7 +1,7 @@
 ## Python 练习册，每天一个小程序 ##
 
 ![头像](https://avatars0.githubusercontent.com/ml/92?s=140&v=4)
-<font color="+898989">你好啊！世界 </font>
+<font color="red">你好啊！世界 </font>
 ```python
 >>> print ("hello world")
 hello world
