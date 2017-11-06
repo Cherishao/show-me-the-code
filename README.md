@@ -1,6 +1,10 @@
 ## Python 练习册，每天一个小程序 ##
 
-
+![头像](https://avatars0.githubusercontent.com/ml/92?s=140&v=4)
+```python
+>>> print ("hello world is not a Begging")
+hello world is not a Begging
+```
 #### 说明： ####
 
 - Python 练习册，每天一个小程序。注：将 Python 换成其他语言，大多数题目也适用
@@ -11,6 +15,7 @@
 > Talk is cheap. Show me the code.--Linus Torvalds
 
 ----------
+
  
 **第 0000 题：**将你的 QQ 头像（或者微博头像）右上角加上红色的数字，类似于微信未读信息数量那种提示效果。
 类似于图中效果
